@@ -35,9 +35,7 @@ My mailpieces usually include a printed paper with my address on it, which you c
 ## QSL Cards showcase
 <details>
 <summary>eQSL.cc</summary>
-
-![eQSL.cc](https://github.com/user-attachments/assets/142b8482-9f85-4ae5-982a-9cf2c258c95c)
-
+<img alt="eqsl.cc" src="https://github.com/user-attachments/assets/142b8482-9f85-4ae5-982a-9cf2c258c95c" />
 </details>
 <details>
 <summary>October 2025</summary>

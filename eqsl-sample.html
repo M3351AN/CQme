@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BG7QNF eQSL</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'JetBrains Mono', monospace;
+            background-image: url('https://youke1.picui.cn/s1/2025/10/11/68e997eb02e48.jpg');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            color: #77B3F1;
+            min-height: 100vh;
+            padding: 20px;
+            position: relative;
+        }
+        
+        body::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.6);
+            z-index: -1;
+        }
+        
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background-color: rgba(0, 20, 40, 0.7);
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+            border: 1px solid #77B3F1;
+        }
+        
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 30px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #77B3F1;
+        }
+        
+        .callsign {
+            font-size: 48px;
+            font-weight: bold;
+            color: #77B3F1;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+            letter-spacing: 2px;
+        }
+        
+        .logo {
+            width: 120px;
+            height: 120px;
+            background-image: url('https://qrz.tkm.icu/CRAC-LOGO.svg');
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+        
+        .qsl-content {
+            font-size: 18px;
+            line-height: 1.6;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 1);
+        }
+        
+        .qsl-content pre {
+            font-family: 'JetBrains Mono', monospace;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+        
+        .footer {
+            margin-top: 20px;
+            text-align: center;
+            font-size: 14px;
+            color: #77B3F1;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 1);
+            padding-top: 15px;
+            border-top: 1px solid #77B3F1;
+        }
+        
+        /* 响应式调整 */
+        @media (max-width: 768px) {
+            .header {
+                flex-direction: column;
+                text-align: center;
+            }
+            
+            .callsign {
+                font-size: 36px;
+                margin-bottom: 15px;
+            }
+            
+            .logo {
+                width: 100px;
+                height: 100px;
+            }
+            
+            .qsl-content {
+                font-size: 16px;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .callsign {
+                font-size: 28px;
+            }
+            
+            .qsl-content {
+                font-size: 14px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="callsign">BG7QNF</div>
+            <div class="logo"></div>
+        </div>
+        
+        <div class="qsl-content">
+            <pre>TO AB1CDE CFM OUR QSO
+DATE: October 1 2025           TIME: 00:00 UTC
+Frequency: 438.500Mhz          MODE: FM
+RST: 59+                       RIG: UV5R
+ANT: 1.2m Fiberglass GP        WATTS: 5W
+QTH: OL42ft
+TNX                            VY73!
+OP: BG7QNF</pre>
+        </div>
+        
+        <div class="footer">
+            Looking forward to meeting you on the air again!
+        </div>
+    </div>
+</body>
+</html>

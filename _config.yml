@@ -1,11 +1,11 @@
-title: BG7QNF
-description: 
-author: 渟雲
+title: "BG7QNF"
+description: ""
+author: "渟雲"
 
 remote_theme: "jekyll/minima@1e8a445"
 
 minima:
-  skin: auto
+  skin: "auto"
 
 plugins:
   - jekyll-feed

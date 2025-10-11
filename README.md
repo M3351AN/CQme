@@ -38,6 +38,16 @@ My mailpieces usually include a printed paper with my address on it, which you c
 <img alt="eqsl.cc" src="https://github.com/user-attachments/assets/142b8482-9f85-4ae5-982a-9cf2c258c95c" />
 </details>
 <details>
+<summary>eQSL via email</summary>
+
+> The format is HTML.
+> 
+> The background image is different each time you send it, so it's truly unique.
+> 
+> I'm more casual when sending eSQL via email, so it might not work for some applications that require SQL cards for authentication.
+
+</details>
+<details>
 <summary>October 2025</summary>
 <img width="512" height="512" alt="方卡正面10月" src="https://github.com/user-attachments/assets/2492acd8-ee6a-4f78-a71d-29c2532c86dd" />
 <img width="512" height="512" alt="方卡背面10月" src="https://github.com/user-attachments/assets/a6b47ee4-ee99-4f31-b268-f55e514d757f" />

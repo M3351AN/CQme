@@ -1,9 +1,7 @@
 # DE BG7QNF.
-> [!TIP]
 > When contacting me via mail or ONLINE(NOT QSO via radio, but via Internet), please feel free to use your native language.
 
 ## About QSL cards
-> [!NOTE]
 > You are welcome to send me QSL cards by postal mail. Eyeball QSO is also accepted. I promise to reply within 30 days.
 > 
 > No SASE or IRC required. But if you are a stamp collector, you can indicate that in your letter and I will be happy to exchange stamps and IRC with you
@@ -27,7 +25,6 @@ or
 ```
 My mailpieces usually include a printed paper with my address on it, which you can stick directly on the envelope for your reply.
 
-> [!IMPORTANT]
 > I cannot accept any QSL cards forwarded via CRAC Buro, please mail them directly to the above address!!
 >
 > In addition, since the postal mail delivery rate in my area is low, it is best to contact me by email before sending so that I can inform the post office in advance.
@@ -40,11 +37,12 @@ My mailpieces usually include a printed paper with my address on it, which you c
 <details>
 <summary>eQSL via email</summary>
 
-> The format is HTML.
-> 
-> The background image is different each time you send it, so it's truly unique.
-> 
-> I'm more casual when sending eSQL via email, so it might not work for some applications that require SQL cards for authentication.
+The format is HTML.
+
+The background image is different each time you send it, so it's truly unique.
+
+I'm more casual when sending eSQL via email, so it might not work for some applications that require SQL cards for authentication.
+
 <iframe 
   src="https://tkm.icu" 
   width="100%" 
